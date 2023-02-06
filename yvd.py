@@ -50,7 +50,7 @@ res_label.pack()
 
 # Create a variable to store the selected resolution
 res_var = tkinter.StringVar()
-# Set the default resolution to 1080p
+# Set the default resolution to 360p
 res_var.set("360p")
 
 # Create a list of resolution options
@@ -70,4 +70,4 @@ root.mainloop()
 
 
 # by Alper Celik
-# all necessary comments added thanks to ChatGPT.
+# All necessary comments added thanks to ChatGPT.
