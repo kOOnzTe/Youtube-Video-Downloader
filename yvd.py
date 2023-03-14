@@ -70,4 +70,3 @@ root.mainloop()
 
 
 # by Alper Celik
-# All necessary comments added thanks to ChatGPT.
